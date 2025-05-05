@@ -1,7 +1,6 @@
 <h1>Hi There! 👋</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-omanu0143@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omanu0143@gmail.com)](mailto:omanu0143@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoono1973/)
+[![Gmail Badge](https://img.shields.io/badge/-omanu0143@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omanu0143@gmail.com)](mailto:omanu0143@gmail.com
 
 ## My name is Emanuelle Nascimento
 (Java | React JS | Typescript | Javascript | HTML | CSS ) 🚀
