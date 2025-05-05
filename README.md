@@ -7,13 +7,13 @@
 - 👩‍💻 Systems developer
 - 🎓 Graduated in systems development from SENAI RJ
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuncit&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="left">
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuncit&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
  </div>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuncit&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  <div style="display: inline_block"><br>
    
